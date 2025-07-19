@@ -25,25 +25,27 @@ Welcome to my GitHub profile! I'm a frontend developer with a passion for creati
 🎯 Core Languages
 
 HTML5 - Semantic markup, accessibility standards
+
 CSS3 - Styling, animations, Flexbox, Grid
+
 JavaScript (ES6+) - Modern syntax, async/await, modules, DOM manipulation
+
 TypeScript - Type safety, better code quality (optional but recommended)
 
 ⚛️ JavaScript Frameworks/Libraries
 
 React.js - Component-based UI library
+
 Next.js - React framework with SSR/SSG
-Vue.js - Progressive JavaScript framework
-Angular - Full-featured framework by Google
-Svelte - Compile-time framework
 
 🎨 CSS Frameworks & Libraries
 
 Tailwind CSS - Utility-first CSS framework
-Bootstrap - Component-based CSS framework
+
 Material-UI (MUI) - React component library
-Ant Design - Enterprise-class UI design
+
 Styled Components - CSS-in-JS library
+
 Emotion - CSS-in-JS library with performance focus
 
 🛠️ Development Tools
@@ -54,6 +56,7 @@ VS Code - Most popular code editor
 🌐 Version Control & Collaboration
 
 Git - Version control system
+
 GitHub - Code hosting and collaboration
 <!--
 -->

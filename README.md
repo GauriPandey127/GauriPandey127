@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Gauri Pandey
 
 <!--
-**GauriPandey127/GauriPandey127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | React Enthusiast | UI/UX Passionate
+Welcome to my GitHub profile! I'm a frontend developer with a passion for creating beautiful, responsive, and user-friendly web applications. I love turning ideas into interactive digital experiences.
+🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Recent graduate in Computer Science / Self-taught developer
+💻 Passionate about frontend technologies and modern web development
+🌱 Currently learning advanced React patterns and backend integration
+👯 Looking to collaborate on open source projects
+💬 Ask me about HTML, CSS, JavaScript, and React
+📫 How to reach me: gauripandey9720@gmail.com
+⚡ Fun fact: I debug with console.log() and I'm not ashamed of it!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠️ Tech Stack
 -->

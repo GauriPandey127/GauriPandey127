@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Gauri Pandey
 Frontend Developer | React Enthusiast | UI/UX Passionate
+
 Welcome to my GitHub profile! I'm a fresh frontend developer with a passion for creating beautiful, responsive, and user-friendly web applications. I love turning ideas into interactive digital experiences.
 🚀 About Me
 

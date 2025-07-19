@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm Gauri Pandey
-
-<!--
 Frontend Developer | React Enthusiast | UI/UX Passionate
-Welcome to my GitHub profile! I'm a frontend developer with a passion for creating beautiful, responsive, and user-friendly web applications. I love turning ideas into interactive digital experiences.
+Welcome to my GitHub profile! I'm a fresh frontend developer with a passion for creating beautiful, responsive, and user-friendly web applications. I love turning ideas into interactive digital experiences.
 🚀 About Me
 
 🎓 Recent graduate in Computer Science / Self-taught developer
@@ -10,8 +8,9 @@ Welcome to my GitHub profile! I'm a frontend developer with a passion for creati
 🌱 Currently learning advanced React patterns and backend integration
 👯 Looking to collaborate on open source projects
 💬 Ask me about HTML, CSS, JavaScript, and React
-📫 How to reach me: gauripandey9720@gmail.com
+📫 How to reach me: your.email@example.com
 ⚡ Fun fact: I debug with console.log() and I'm not ashamed of it!
 
 🛠️ Tech Stack
+<!--
 -->

@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a fresh frontend developer with a passion for 
 🌱 Currently learning advanced React patterns and backend integration
 👯 Looking to collaborate on open source projects
 💬 Ask me about HTML, CSS, JavaScript, and React
-📫 How to reach me: your.email@example.com
+📫 How to reach me: gauripandey9720@gmail.com
 ⚡ Fun fact: I debug with console.log() and I'm not ashamed of it!
 
 🛠️ Tech Stack

@@ -51,8 +51,7 @@ Emotion - CSS-in-JS library with performance focus
 🛠️ Development Tools
 Code Editors
 
-VS Code - Most popular code editor
-
+VS Code 
 🌐 Version Control & Collaboration
 
 Git - Version control system

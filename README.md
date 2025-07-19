@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a frontend developer with a passion for creati
 
 🛠️ Tech Stack
  Frontend Development Tech Stack
+ 
 🎯 Core Languages
 
 HTML5 - Semantic markup, accessibility standards
